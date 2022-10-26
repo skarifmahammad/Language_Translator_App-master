@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #5372F0;
+    background: #f1b341ce;
 }
 .container{
     width: 695px;
@@ -92,5 +92,5 @@ body{
     color: #fff;
     font-size: 17px;
     border-radius: 5px;
-    background: #53f0bc;
+    background: #68c5f4;
 }
