@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #f1b341ce;
+    background: #db9d2ace;
 }
 .container{
     width: 695px;
@@ -20,7 +20,7 @@ body{
 }
 .wrapper{
     border-radius: 5px;
-    border: 1px solid #bbb;
+    border: 1px solid rgb(233, 233, 233);
 }
 .wrapper .text-input{
     display: flex;
@@ -53,7 +53,7 @@ body{
 
 }
 .container .row.from .icons{
-    border-right: 1 px solid #bbb;
+    border-right: 1 px solid rgb(235, 227, 227);
     padding-right: 15px;
 }
 .container .row.to .icons{
